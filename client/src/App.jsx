@@ -1,11 +1,11 @@
 import './App.css';
-import Divide from './Components/divider';
-
+import './Components/CodeEditor'
+import CodeEditor from './Components/CodeEditor';
 function App() {
 
   return (
     <>  
-      <Divide/>
+      <CodeEditor/>
     </>
   )
 }
